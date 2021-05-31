@@ -1,2 +1,5 @@
+cat ~/.ssh/id_rsa.pub | clip
+
+
 ##adding a new file 
 print ("inside new branch")
